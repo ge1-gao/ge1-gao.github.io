@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ge1gao.github.io/sitemap.xml
+Sitemap: https://ge1-gao.github.io/sitemap.xml
